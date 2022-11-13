@@ -1,6 +1,10 @@
 # student porfolio website
 
-Hey! Welcome to my portfolio. It's coming up tomorrow when I learn HTML and CSS with Tanay on Youtube.
+Hey! Welcome to my portfolio.
+This is Abhishek.
+I am a software developer.
+I have done my B.Tech in IT domain.
+I enjoy playing web development and creating UI/UX.
 
 For now, I know:
 
