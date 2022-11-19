@@ -2,9 +2,8 @@
 
 Hey! Welcome to my portfolio.
 This is Abhishek.
-I am a software developer.
-I have done my B.Tech in IT domain.
-I enjoy playing web development and creating UI/UX.
+I am a software developer..
+I enjoy doing web development and creating UI/UX.
 
 For now, I know:
 
